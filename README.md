@@ -10,3 +10,6 @@ Single Products: Single products without variations are also included in the que
 Out of Stock: Products that are marked as out of stock or have a stock of 0 will be excluded from the query. They will not be visible on the shop page.
 
 In Stock: Only products with a stock greater than 0 will be considered as in stock. These are the only products that will be visible on the shop page.
+
+HOW TO USE THE CODE
+In your WordPress files, locate functions.php file and paste the code below the existing code if they exist
